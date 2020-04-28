@@ -12,6 +12,7 @@ ul.site-navigation {
     vertical-align: middle;
     text-align: center;
     font-family: Playfair Display;
+    font-weight: 400;
     font-size: 14px;
     
 }
@@ -29,7 +30,7 @@ a {
     text-decoration: none;
    }
    a:hover {
-    color: blue; 
+    color: #03a9f4;
    }
    .feautires {
        display: inline-block;
@@ -48,9 +49,10 @@ a {
 .feautires li:nth-child(2n) 
 {margin-right: 0px;}
 .feautires h3{font-size: 14px;
-    font-family: Ubuntu Light;
+    font-family: Ubuntu;
     margin-bottom: 26px;
-    color:gray;}
+    font-weight: 300;
+    color: #b4ad9e;}
 .feautires h2{font-size: 30px;
     font-family: Playfair Display;
     margin-bottom: 34px;
